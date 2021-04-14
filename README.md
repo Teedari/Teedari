@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 💻 &nbsp;About Me 
 
-# Knowledgeable Web Developer brings superior front- and back-end design to promote organization-specific website presence. Thorough comprehension of complex HTML, CSS and JavaScript programming languages to generate custom webpage design. Extensive collaboration with Web Developers to ascertain company expectations and oversee site creation, from initial planning through rollout and support.
+<p> Knowledgeable Web Developer brings superior front- and back-end design to promote organization-specific website presence. Thorough comprehension of complex HTML, CSS and JavaScript programming languages to generate custom webpage design. Extensive collaboration with Web Developers to ascertain company expectations and oversee site creation, from initial planning through rollout and support.</p>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Studying Computer at the University of Energy and Natural Resources.
