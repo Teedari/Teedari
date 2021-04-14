@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Engineering at Brigham Young University Idaho.
+- 🎓 &nbsp; Studying Computer at the University of Energy and Natural Resources.
 
 
 ### 🛠 &nbsp;Tech Stack
