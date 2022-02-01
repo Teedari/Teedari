@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
  
 - 🛢 &nbsp;
-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
