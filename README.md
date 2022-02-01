@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 💻 &nbsp;About Me 
 
-<p> Knowledgeable Web Developer brings superior front- and back-end design to promote organization-specific website presence. Thorough comprehension of complex HTML, CSS and JavaScript programming languages to generate custom webpage design. Extensive collaboration with Web Developers to ascertain company expectations and oversee site creation, from initial planning through rollout and support.</p>
+<p> Knowledgeable Web Developer brings superior front-end and back-end design to promote organization-specific website presence. Thorough comprehension of complex HTML, CSS, Python(Django) and JavaScript(ReactJS) programming languages to generate custom webpage design. Extensive collaboration with Web Developers to ascertain company expectations and oversee site creation, from initial planning through rollout and support.</p>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Studying Computer at the University of Energy and Natural Resources.
@@ -28,10 +28,10 @@ Here are some ideas to get you started:
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+<!--   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
